@@ -11,7 +11,6 @@ import net.osmand.LogUtil;
 import net.osmand.OsmAndFormatter;
 import net.osmand.data.Amenity;
 import net.osmand.osm.LatLon;
-import net.osmand.osm.MapUtils;
 import net.osmand.plus.PoiFilter;
 import net.osmand.plus.R;
 import net.osmand.plus.ResourceManager;
